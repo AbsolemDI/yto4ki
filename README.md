@@ -1,4 +1,4 @@
-[<a href="https://github.com/yto4ki"><img src="https://github.com/yto4ki/yto4ki/raw/main/assets/IMG-3354.JPG" alt="Header" width="200"></a>](https://github.com/yto4ki)
+[<a href="https://github.com/AbsolemDI"><img src="https://github.com/AbsolemDI/yto4ki/raw/main/assets/IMG-3354.JPG" alt="Header" width="200"></a>](https://github.com/AbsolemDI)
 
 ## I'm a beginner QA Engineer
 
@@ -19,15 +19,15 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/yto4ki/checklist)
-- [Test-Suites and Test-Cases](https://github.com/yto4ki/test-cases)
-- [Bug-Reports](https://github.com/yto4ki/bug-reports)
-- [SQL Queries](https://github.com/yto4ki/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/AbsolemDI/checklist)
+- [Test-Suites and Test-Cases](https://github.com/AbsolemDI/test-cases)
+- [Bug-Reports](https://github.com/AbsolemDI/bug-reports)
+- [SQL Queries](https://github.com/AbsolemDI/SQL)
+- [Postman Collections](https://github.com/AbsolemDI/postman)
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ifqwe)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/bartiky)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/d.art.is)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yto4ki&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbsolemDI&show_icons=true&theme=synthwave)
