@@ -1,4 +1,4 @@
-[<a href="https://github.com/AbsolemDI"><img src="https://www.stex.kz/cms/uploads/images/qa_test.jpg" alt="Header" width="1400 height="500" "></a>](https://github.com/AbsolemDI)
+[<a href="https://github.com/AbsolemDI"><img src="https://www.stex.kz/cms/uploads/images/qa_test.jpg" alt="Header" width="1400" height="500" "></a>](https://github.com/AbsolemDI)
 
 ## I'm a QA Engineer.
 
