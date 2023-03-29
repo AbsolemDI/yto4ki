@@ -1,6 +1,6 @@
-[<a href="https://github.com/AbsolemDI"><img src="https://github.com/AbsolemDI/yto4ki/raw/main/assets/IMG-3354.JPG" alt="Header" width="200"></a>](https://github.com/AbsolemDI)
+[<a href="https://github.com/AbsolemDI"><img src="https://www.stex.kz/cms/uploads/images/qa_test.jpg" alt="Header" width="200"></a>](https://github.com/AbsolemDI)
 
-## I'm a beginner QA Engineer
+## I'm a QA Engineer.
 
 
 ## Languages and Tools
